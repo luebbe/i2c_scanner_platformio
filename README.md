@@ -46,7 +46,8 @@ Scanning address range 0x08-0x77
 70: -- -- -- -- -- -- -- --
 
 23: BH1750 brightness sensor
-3c: SSD 1306 display```
+3c: SSD 1306 display
+```
 
 ## Tested on devices
 
