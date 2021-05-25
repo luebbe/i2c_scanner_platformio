@@ -4,7 +4,7 @@ Simple Arduino library for scanning I2C bus for devices.
 
 Inspiration taken from https://github.com/mcauser/i2cdetect and https://github.com/Ailme/i2c_scanner_platformio
 
-Outputs a table similar to the [linux program](http://linux.die.net/man/8/i2cdetect) of the same name.
+Outputs a table similar to the [linux program](http://linux.die.net/man/8/i2cdetect) i2cdetect.
 
 Each cell will contain one of the following symbols:
 
