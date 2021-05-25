@@ -10,7 +10,7 @@ Each cell will contain one of the following symbols:
 
 * "--" when the address was probed but no chip answered
 * An address in hexadecimal, e.g. "1e", when a chip was found at the address
-* For found device, the scanner will try to determine the device type and list it below the table
+* For each found device, the scanner will try to determine the device type and list it below the table
 
 The optional parameters first and last restrict the scanning range (default: from 0x08 to 0x77).
 
